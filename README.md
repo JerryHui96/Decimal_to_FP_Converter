@@ -1,4 +1,4 @@
-# Floating Point Adder in C/C++
+# Floating Point Adder in C++
 
 This project performs Single-Precision Floating-Point addition for 2 sets of 8-input signed decimals.
 
